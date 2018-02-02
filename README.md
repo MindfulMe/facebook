@@ -1,7 +1,6 @@
 # Facebook
 ### Todo:
-### Add the packages to meteor:
-
+<Append tasks there>
 ### We use hosting named localhost 
 ### Related docs
 [Meteor](http://docs.meteor.com/api/accounts.html#Meteor-loginWith<ExternalService>)
