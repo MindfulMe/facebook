@@ -1,10 +1,8 @@
 # Facebook
 ### Todo:
 ### Add the packages to meteor:
-```javascript
-meteor add q42:accounts-microsoft
-```
-```
-meteor add accounts-ui
-```
+
 ### We use hosting named localhost 
+### Related docs
+[Meteor](http://docs.meteor.com/api/accounts.html#Meteor-loginWith<ExternalService>)
+[Microsoft](https://apps.dev.microsoft.com/#/appList)
