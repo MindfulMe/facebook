@@ -1,3 +1,4 @@
+__A login service for Microsoft accounts__
 
 [![Build Status][travis-image]][travis-url]
 
