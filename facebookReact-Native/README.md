@@ -1,5 +1,5 @@
 # React-Native
-### For android and ios
+### android and ios 
 ```
 npm install
 ```
