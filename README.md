@@ -1,4 +1,4 @@
-# Facebook
+
 [![Build Status][travis-image]][travis-url]
 
 ## Getting started
