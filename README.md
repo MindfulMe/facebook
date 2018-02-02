@@ -1,6 +1,6 @@
 # Facebook
 ### Todo:
-### Add the packages to meteor
+### Add the packages to meteor:
 ```javascript
 meteor add q42:accounts-microsoft
 ```
