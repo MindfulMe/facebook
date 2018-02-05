@@ -8,3 +8,20 @@
 [Meteor](http://docs.meteor.com/api/accounts.html#Meteor-loginWith<ExternalService>)
 
 [Microsoft](https://apps.dev.microsoft.com/#/appList)
+
+
+### Installation:
+# Windows
+
+First install [chocolatey](https://chocolatey.org/install)
+
+Run the following command:
+```
+choco install meteor
+```
+# OSX / LINUX
+Run the following command in your terminal to install the latest official Meteor release:
+```
+curl https://install.meteor.com/ | sh
+```
+
