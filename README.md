@@ -19,7 +19,7 @@ npm install
 ```
 meteor
 ```
-Open 
+Open in your browser the following:
 ```
 localhost:3000
 ```
