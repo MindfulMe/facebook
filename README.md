@@ -8,6 +8,7 @@ Run the following command:
 choco install meteor
 ```
 (Note if you do not have choco - you should install it before running the command "choco install...")
+
 Go to the facebookM folder
 and run 
 ```
