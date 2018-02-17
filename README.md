@@ -1,5 +1,5 @@
-### Installation:
-# Windows
+# Installation:
+### Windows
 
 First install [chocolatey](https://chocolatey.org/install)
 
@@ -24,7 +24,7 @@ Open
 localhost:3000
 ```
 in your browser
-# OSX / LINUX
+### OSX / LINUX
 Run the following command in your terminal to install the latest official Meteor release:
 ```
 curl https://install.meteor.com/ | sh
