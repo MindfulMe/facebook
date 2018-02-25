@@ -36,7 +36,7 @@ The other stuff is the same as on Windows
 1) Decide whether to use this solution or another one
 2) Add a catalog
 3) Add admin authorization
-### We use the hosting named localhost :D
+### We used the hosting named localhost (now it's heroku) :D
 ### Related docs:
 [Meteor](http://docs.meteor.com/api/accounts.html#Meteor-loginWith<ExternalService>)
 
